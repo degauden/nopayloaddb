@@ -1,3 +1,4 @@
+name: Client Tests
 on:
   - pull_request
 jobs:
